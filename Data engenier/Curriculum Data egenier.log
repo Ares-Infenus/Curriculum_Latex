@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.24)  25 JAN 2025 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.24)  25 JAN 2025 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data Sciencist/Curriculum Data Scientist.tex"
-(c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data Sciencist/Curriculum Data Scientist.tex
+**"c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data engenier/Curriculum Data egenier.tex"
+(c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data engenier/Curriculum Data egenier.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (c:/texlive/2024/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -590,8 +590,8 @@ File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaramo
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 33.
- (./Curriculum Data Scientist.aux)
-\openout1 = `"Curriculum Data Scientist.aux"'.
+ (./Curriculum Data egenier.aux)
+\openout1 = `"Curriculum Data egenier.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -687,9 +687,9 @@ File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / Ad
 \c@mv@tabular=\count332
 \c@mv@boldtabular=\count333
 Package hyperref Info: Link coloring OFF on input line 33.
-(./Curriculum Data Scientist.out) (./Curriculum Data Scientist.out)
+(./Curriculum Data egenier.out) (./Curriculum Data egenier.out)
 \@outlinefile=\write4
-\openout4 = `"Curriculum Data Scientist.out"'.
+\openout4 = `"Curriculum Data egenier.out"'.
 
 \pagenumberwidth=\skip108
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
@@ -755,6 +755,9 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_tcdnmr.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_yod6vr.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
 
+Package hyperref Warning: Suppressing link with empty target on input line 76.
+
+
 Package hyperref Warning: Suppressing link with empty target on input line 77.
 
 
@@ -771,27 +774,27 @@ Package hyperref Warning: Suppressing link with empty target on input line 81.
 
 
 
-[2] (./Curriculum Data Scientist.aux)
+[2] (./Curriculum Data egenier.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
-Package rerunfilecheck Info: File `"Curriculum Data Scientist".out' has not changed.
+Package rerunfilecheck Info: File `"Curriculum Data egenier".out' has not changed.
 (rerunfilecheck)             Checksum: DA9C9920B4040C450B44B4B22C0CB5BD;846.
  ) 
 Here is how much of TeX's memory you used:
  27598 strings out of 473207
- 533546 string characters out of 5720455
- 971534 words of memory out of 5000000
+ 533501 string characters out of 5720455
+ 971528 words of memory out of 5000000
  50275 multiletter control sequences out of 15000+600000
  639393 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,1100b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,129p,1097b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on "Curriculum Data Scientist.pdf" (2 pages, 151340 bytes).
+Output written on "Curriculum Data egenier.pdf" (2 pages, 152536 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
  38469 words of extra memory for PDF output out of 42996 (max. 10000000)
 

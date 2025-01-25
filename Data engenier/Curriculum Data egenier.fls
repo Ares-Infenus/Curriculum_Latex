@@ -1,9 +1,9 @@
-PWD c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data Sciencist
+PWD c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data engenier
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data Sciencist/Curriculum Data Scientist.tex
-OUTPUT Curriculum Data Scientist.log
+INPUT c:/Users/spinz/Documents/Portafolio Oficial/Curriculum LaTex/Data engenier/Curriculum Data egenier.tex
+OUTPUT Curriculum Data egenier.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/moderncv/moderncv.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/moderncv/moderncv.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size11.clo
@@ -290,10 +290,10 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-t1.tfm
-INPUT ./Curriculum Data Scientist.aux
-INPUT ./Curriculum Data Scientist.aux
-INPUT Curriculum Data Scientist.aux
-OUTPUT Curriculum Data Scientist.aux
+INPUT ./Curriculum Data egenier.aux
+INPUT ./Curriculum Data egenier.aux
+INPUT Curriculum Data egenier.aux
+OUTPUT Curriculum Data egenier.aux
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -305,14 +305,14 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-EBGaramond.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-EBGaramond.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-EBGaramond.cfg
-INPUT ./Curriculum Data Scientist.out
-INPUT ./Curriculum Data Scientist.out
-INPUT Curriculum Data Scientist.out
-INPUT Curriculum Data Scientist.out
-OUTPUT Curriculum Data Scientist.pdf
-INPUT ./Curriculum Data Scientist.out
-INPUT ./Curriculum Data Scientist.out
-OUTPUT Curriculum Data Scientist.out
+INPUT ./Curriculum Data egenier.out
+INPUT ./Curriculum Data egenier.out
+INPUT Curriculum Data egenier.out
+INPUT Curriculum Data egenier.out
+OUTPUT Curriculum Data egenier.pdf
+INPUT ./Curriculum Data egenier.out
+INPUT ./Curriculum Data egenier.out
+OUTPUT Curriculum Data egenier.out
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Italic-osf-t1.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-t1.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Bold-osf-t1.tfm
@@ -372,9 +372,9 @@ INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-t1.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-t1--base.tfm
-INPUT Curriculum Data Scientist.aux
-INPUT ./Curriculum Data Scientist.out
-INPUT ./Curriculum Data Scientist.out
+INPUT Curriculum Data egenier.aux
+INPUT ./Curriculum Data egenier.out
+INPUT ./Curriculum Data egenier.out
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb
